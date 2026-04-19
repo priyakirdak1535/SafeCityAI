@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-
----
-
-=======
->>>>>>> df390ceab2e3d3bffe4c10ce775415d9587a14c6
 ## Setup and Installation
 
 ### 1. Clone the repository
